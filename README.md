@@ -21,9 +21,9 @@ Open source coaxial drone
 * 2.飞行模态相对多旋翼复杂一些，在飞控设计方面有一定的挑战；
 
 任何飞行器都是面向于目标用途和使用环境设计的，各种气动布局之间没有绝对的好坏之分。不仅在地球上如此，在其他星球上我们的理论依然适用～
-![]()
+![RME1](https://github.com/ivenHu/Tdrone/blob/master/pictures/RME1.jpg)
 
-https://www.nasa.gov/press-release/mars-helicopter-to-fly-on-nasa-s-next-red-planet-rover-mission
+* [飞行器视频]（https://www.nasa.gov/press-release/mars-helicopter-to-fly-on-nasa-s-next-red-planet-rover-mission）
 在莱特兄弟使用固定翼飞行器完成人类第一次载人飞行的100多年后，我们有望见证人类首次在除地球以外的星球上使用无人飞行器，而这个无人飞行器正是共轴双桨无人
 机！
 
@@ -32,8 +32,8 @@ https://www.nasa.gov/press-release/mars-helicopter-to-fly-on-nasa-s-next-red-pla
 ### 1.概况：
 Tdrone无人机是从2015年10月开始研发的，到2016年4月第一代Tdrone具备了初步飞行能力，就如视频中展示的那样（连接）。Tdrone使用了两个经过改装的1806无刷电
 机作为动力，两个舵机用来控制斜盘，偏航使用差速控制。飞控使用了CC3D飞控。其搭载了两轴稳定的云台和运动相机。续航时间在10分钟左右。
-![]()  
-![]()
+![RME2](https://github.com/ivenHu/Tdrone/blob/master/pictures/RME2.jpg)  
+![TU4](https://github.com/ivenHu/Tdrone/blob/master/pictures/TU4.jpg)
 
 ### 2.飞控部分：
    Tdrone使用了CC3D飞控。CC3D飞控原生即支持该种类型的飞行器，但需要一些特殊的设置。这是我使用的配置文件（连接）。 你可以直接使用该配置文件，但遥控器
