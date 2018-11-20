@@ -1,0 +1,3 @@
+[submodule "overo"]
+	path = overo
+	url = gitolite@git.openpilot.org:op_overo.git

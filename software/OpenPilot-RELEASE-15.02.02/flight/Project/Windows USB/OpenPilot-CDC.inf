@@ -1,0 +1,43 @@
+[Version]
+Signature = "$Windows NT$"
+Class = Ports
+ClassGuid = {4D36E978-E325-11CE-BFC1-08002BE10318}
+Provider = %ProviderName%
+DriverVer=11/21/2014,3.0.0.0
+CatalogFile.NTx86  = OpenPilot-CDC_x86.cat 
+CatalogFile.NTamd64 = OpenPilot-CDC_amd64.cat
+
+[MANUFACTURER]
+%ProviderName% = DeviceList, NTx86, NTamd64
+
+[DeviceList.NTx86]
+%CopterControl% = DriverInstall,USB\VID_20A0&PID_415b&MI_00
+%Revolution% = DriverInstall,USB\VID_20A0&PID_415e&MI_00
+%OPLinkMini% = DriverInstall,USB\VID_20A0&PID_415c&MI_00
+%OPLink1W% = DriverInstall,USB\VID_20A0&PID_4195&MI_00
+
+[DeviceList.NTamd64]
+%CopterControl% = DriverInstall,USB\VID_20A0&PID_415b&MI_00
+%Revolution% = DriverInstall,USB\VID_20A0&PID_415e&MI_00
+%OPLinkMini% = DriverInstall,USB\VID_20A0&PID_415c&MI_00
+%OPLink1W% = DriverInstall,USB\VID_20A0&PID_4195&MI_00
+
+[DriverInstall]
+include = mdmcpq.inf
+CopyFiles = FakeModemCopyFileSection
+AddReg = LowerFilterAddReg,SerialPropPageAddReg
+
+[DriverInstall.Services]
+include = mdmcpq.inf
+AddService = usbser, 0x00000002, LowerFilter_Service_Inst
+
+; This adds the serial port property tab to the device properties dialog
+[SerialPropPageAddReg]
+HKR,,EnumPropPages32,,"MsPorts.dll,SerialPortPropPageProvider"
+
+[Strings]
+ProviderName = "OpenPilot"
+CopterControl = "CopterControl Virtual COM Port"
+Revolution = "Revolution Virtual COM Port"
+OPLinkMini = "OPLinkMini Virtual COM Port"
+OPLink1W = "OPLink1W Virtual COM Port"

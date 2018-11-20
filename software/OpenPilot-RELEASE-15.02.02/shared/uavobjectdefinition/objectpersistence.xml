@@ -1,0 +1,13 @@
+<xml>
+    <object name="ObjectPersistence" singleinstance="true" settings="false" category="System" priority="true">
+        <description>Used by gcs to handle object persistence to flash memory</description>
+        <field name="Operation" units="" type="enum" elements="1" options="NOP,Load,Save,Delete,FullErase,Completed,Error"/>
+        <field name="Selection" units="" type="enum" elements="1" options="SingleObject,AllSettings,AllMetaObjects,AllObjects"/>
+        <field name="ObjectID" units="" type="uint32" elements="1"/>
+        <field name="InstanceID" units="" type="uint32" elements="1"/>
+        <access gcs="readwrite" flight="readwrite"/>
+        <telemetrygcs acked="true" updatemode="manual" period="0"/>
+        <telemetryflight acked="true" updatemode="onchange" period="0"/>
+        <logging updatemode="manual" period="0"/>
+    </object>
+</xml>

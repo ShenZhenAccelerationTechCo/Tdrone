@@ -1,0 +1,131 @@
+Sounds for the notification plugin.
+
+Before being included, all files should be normalized using http://normalize.nongnu.org/ with no options. 
+
+Do not however re-normalise the files already here.
+
+Work in progress, any ideas PM me - dankers.
+
+Noises:
+
+alarmsound
+beepsound
+whoopsound
+
+
+Spoken Collection (sorted alphabetically):
+
+aborted
+active
+alert
+altitude
+amps
+aquired
+armed
+autonomous flight
+battery
+camera
+cancelled
+changed
+circle position
+cleared
+complete
+connected
+connection
+control
+coptercontrol
+critical
+disabled
+disarmed
+disconnected
+feet
+figure eight
+flight
+Geofence
+GPS 
+ground station
+heading
+height
+high
+hippodrome
+hold position
+Home location
+initiated
+initiazlised
+KPH
+landing
+launch
+left
+logging
+lost
+low altitude
+low battery
+low gps quality
+magic
+manual flight
+maxium
+meters
+minimum
+minus 
+mode
+moved
+MPH
+navigation
+OpenPilot
+point
+range
+reached
+ready for flight
+return home
+right
+set
+speed
+stabalisation
+started
+stopped
+take off
+telemtry
+time
+triggered
+UAV
+volts
+warning
+waypoint
+
+
+
+Numbers:
+
+zero
+one
+two
+three
+four
+five
+six
+seven
+eight
+nine
+ten
+eleven
+tweleve
+thriteen
+fourteen
+fifteen
+sixteen
+seventeen
+eightteen
+nineteen
+twenty
+thirty
+fourty
+fifty
+sixty
+seventy
+eighty
+ninety
+hundread
+thousand
+
+
+

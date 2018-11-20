@@ -1,0 +1,257 @@
+This is the Milestones file of the OpenPilot project, its intent is to record the major accomplishments
+achieved by people using the OpenPilot platform and who gets the karma for performing them.
+
+The Contributors list in the About dialog of the GCS application records the developers and contributors.
+This file is different as it is aimed at recording and giving credit to the people who achieve milestones
+in the use of OpenPilot.
+
+Notice: now we have the rule: no video - it has never happened. So please make sure you have video
+recorded if you want to submit your milestone (listed below or not yet) to this list.
+
+The fields are:
+  (M) Milestone description
+  (C) Credited to
+  (D) Date
+  (V) Link to video showing milestone
+
+M: OpenPilot driving EagleTree OSD
+C: Frederic Goddeeris
+D: August 2010
+V: http://vimeo.com/13659819
+
+M: First manual fixed wing flight
+C: James Cotton
+D: September 2010
+
+M: First stabilised fixed wing flight
+C: Edouard Lafargue
+D: September 2010
+
+M: First stabilised Quad flight
+C: James Cotton
+D: September 2010
+
+M: First stabilised Tri-Copter flight
+C: Gary Mortimer and the Scorpion
+D: October 2010
+
+M: First communication between by PipX modems
+C: Cathy Moss
+D: October 2010
+
+M: First OpenPilot night flight
+C: Dale Schinstock
+D: October 2010
+V: http://www.youtube.com/watch?v=yk8ckeRMV8U
+
+M: First stabilised Hexa flight
+C: Sami Korhonen (Sambas)
+D: November 2010
+V: http://www.youtube.com/watch?v=CIL29Yqt8Ck
+
+M: First -10 Deg C  flight
+C: Sami Korhonen (Sambas)
+D: November 2010
+V: http://vimeo.com/17488702
+
+M: First solid OpenPilot Position Hold
+C: Dale Schinstock
+D: December 2010
+V: http://www.youtube.com/watch?v=BBCGVP0Vpgw
+
+M: First intentional flip on a multirotor with OpenPilot
+C: Sami Korhonen (Sambas)
+D: December 2010
+V: http://vimeo.com/18318478
+
+M: First CopterControl flight on a Quad
+C: Sami Korhonen (Sambas)
+D: January 2011
+V: http://vimeo.com/19592820
+
+M: First UAVTalk connection across several continents - over the Internet
+C: Eric Price (CorvusCorax), James Cotton
+D: February 2011
+V: http://cybertrench.com/vixen/internet-telemetry_small.avi
+
+M: First CopterControl flight on a Fixed Wing
+C: Oleg Semyonov (osnwt)
+D: February 2011
+V: http://www.youtube.com/watch?v=gt1ok7iSGDY
+
+M: First intentional flip on a multirotor with CopterControl
+C: Sami Korhonen (Sambas)
+D: February 2011
+V: http://vimeo.com/20159015
+
+M: First CopterControl Position Hold on a Fixed Wing
+C: Eric Price (Corvus Corax)
+D: March 2011
+V: http://www.youtube.com/watch?v=QtaefhmGbio
+
+M: Dave's First Flight.  Pathetically delayed.
+C: David Ankers
+D: March 2011
+V: http://vimeo.com/22221798
+
+M: First CopterControl flight on a Hexa
+C: Edouard Lafargue
+D: March 2011
+V: http://vimeo.com/21476466
+
+M: First CopterControl flight on a Tri
+C: Gary Mortimer and the Scorpion
+D: March 2011
+V: http://vimeo.com/22104334
+
+M: First Y6 OpenPilot flight
+C: Sami Korhonen (Sambas)
+D: May 2011
+V: http://www.vimeo.com/23637586
+
+M: First CopterControl flight on a Flybarless Heli
+C: Oleg Semyonov (osnwt)
+D: May 2011
+V: http://www.youtube.com/watch?v=-J8cxqzxxWw
+
+M: First V8 Octo OpenPilot flight
+C: Sami Korhonen (Sambas)
+D: May 2011
+V: http://vimeo.com/24258192
+
+M: First Y6 CopterControl flight
+C: Michel Pet
+D: June 2011
+V: http://www.youtube.com/watch?v=QsE2MQELPZY
+
+M: First MoveCopter flight
+C: Werner Backes
+D: July 2011
+V: http://vimeo.com/25983655
+
+M: First Y4 CopterControl flight
+C: Mat Wellington
+D: July 2011
+V: http://www.youtube.com/watch?v=TxZ4MDGIj1o
+
+M: First V-Tail4 CopterControl flight
+C: Mat Wellington
+D: July 2011
+V: http://www.youtube.com/watch?v=YE4Fd9vdg1I
+
+M: First CopterControl Flybared Heli inverted flight (2:33)
+C: Maxim Izergin (Maximus43)
+D: August 2011
+V: http://www.youtube.com/watch?v=8SrfIS7OkB4
+
+M: First CopterControl Flybared Heli funnel (4:18), loop (5:35)
+C: Sergey Solodennikov (alconaft43)
+D: August 2011
+V: http://www.youtube.com/watch?v=8SrfIS7OkB4
+
+M: First CopterControl Return to Base Fixed Wing
+C: Eric Price (Corvus Corax)
+D: August 2011
+V: http://www.youtube.com/watch?v=CugI0oBSQn8
+
+M: First CopterControl flip on a Flybarless Heli
+C: Anders Johansson (dezent)
+D: November 2011
+V: http://www.youtube.com/watch?v=Xfas2TUhOPw
+
+M: First CopterControl over 1km FixedWing navigation flight
+C: Eric Price (Corvus Corax)
+D: December 2011
+V: http://www.youtube.com/watch?v=nWNWuUiUTNg
+ 
+M: First CopterControl over 5km FixedWing navigation flight
+C: Kavin Gustafson (k_g)
+D: October 2012
+V: http://www.youtube.com/watch?v=MGO68TqIwKk
+
+M: First Revo Navigated flight on a FixedWing
+C: It got done somewhere along the line, likely Corvus.
+
+M: First Revo 5km Navigated flight on a FixedWing
+C: Eric Price (Corvus Corax)
+D: March 2012
+V: 
+
+M: First Revo 20km Navigated flight on a FixedWing
+C: Eric Price / Team OP
+D: Greece 2013
+V: https://vimeo.com/71956880
+
+M: First Auto spot landing on a fixed Wing using Revo
+C: Eric Price (Corvus Corax)
+D: Greece 2013
+V:
+
+M: First Revo Navigated flight on a MultiRotor
+C: It got done somewhere along the line, James or Sami
+
+M: First Revo 1km Navigated flight on a MultiRotor
+C: Jackson Russell
+D: Greece 2013
+V: 
+
+M: First Revo 5km Navigated flight on a MultiRotor
+C: Rodney Grainger (roddersNZ)
+D: September 2014
+V: https://www.youtube.com/watch?v=DYawRGz5KYM
+
+M: First Revo 6km Navigated flight on a MultiRotor
+C:
+D:
+V:
+
+M: First Revo 7km Navigated flight on a MultiRotor
+C:
+D:
+V:
+
+M: First Revo 8km Navigated flight on a MultiRotor
+C: Jim Allen Thibodaux
+D: September 2014
+V: http://www.youtube.com/watch?v=oeJF8U2k9FA
+
+M: First Revo 9km Navigated flight on a MultiRotor
+C:
+D:
+V:
+
+M: First Revo 10km Navigated flight on a MultiRotor
+C:
+D:
+V:
+
+
+M: First Revo Position Hold on a Heli
+C:
+D:
+V:
+
+M: First Revo Navigated flight on a Heli
+C:
+D:
+V:
+
+M: First Revo 1km Navigated flight on a Heli
+C:
+D:
+V:
+
+M: First Revo 5km Navigated flight on a Heli
+C:
+D:
+V:
+
+M: First Auto landing on a MultiRotor using Revo
+C: Sami
+D:
+V:
+
+M: First Auto landing on a Heli using Revo
+C:
+D:
+V:

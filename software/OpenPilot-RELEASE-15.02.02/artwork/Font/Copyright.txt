@@ -1,0 +1,22 @@
+"Dekers" Font
+(c) 2009 by Benoît Sjöholm
+www.calamedesign.com
+
+Free for non-commercial use.
+
+***
+
+OPenPilot Symbol Font
+(c) 2010 The OpenPilot Project
+www.openpilot.org
+
+Creative Commons Attribution-ShareAlike 3.0 Australia License.
+
+Symbols:
+
+Capital A = OpenPilot Logo
+Capital B = CC-BY-SA
+Capital B = CC-BY-NC-SA
+Capital D = RoHS
+
+ 

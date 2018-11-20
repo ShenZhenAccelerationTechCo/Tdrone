@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/uploader">
+        <file>images/view-refresh.svg</file>
+        <file>images/system-run.svg</file>
+        <file>images/process-stop.svg</file>
+        <file>images/dialog-apply.svg</file>
+        <file>images/gtk-info.svg</file>
+        <file>images/deviceID-0401.svg</file>
+        <file>images/deviceID-0301.svg</file>
+        <file>images/deviceID-0201.svg</file>
+        <file>images/deviceID-0101.svg</file>
+        <file>images/application-certificate.svg</file>
+        <file>images/warning.svg</file>
+        <file>images/error.svg</file>
+        <file>images/deviceID-0402.svg</file>
+        <file>images/gcs-board-cc.png</file>
+        <file>images/gcs-board-cc3d.png</file>
+        <file>images/pipx.png</file>
+        <file>images/gcs-board-oplink.png</file>
+        <file>images/gcs-board-revo.png</file>
+    </qresource>
+</RCC>

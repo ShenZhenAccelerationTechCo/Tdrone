@@ -1,0 +1,34 @@
+<xml>
+    <object name="ManualControlSettings" singleinstance="true" settings="true" category="Control">
+        <description>Settings to indicate how to decode receiver input by @ref ManualControlModule.</description>
+        <field name="ChannelGroups" units="Channel Group" type="enum" 
+	       elementnames="Throttle,Roll,Pitch,Yaw,FlightMode,Collective,Accessory0,Accessory1,Accessory2"
+	       options="PWM,PPM,DSM (MainPort),DSM (FlexiPort),S.Bus,GCS,OPLink,None" defaultvalue="None"/>
+	<field name="ChannelNumber" units="channel" type="uint8" defaultvalue="0"
+	       elementnames="Throttle,Roll,Pitch,Yaw,FlightMode,Collective,Accessory0,Accessory1,Accessory2"/>
+	<field name="ChannelMin" units="us" type="int16" defaultvalue="1000"
+	       elementnames="Throttle,Roll,Pitch,Yaw,FlightMode,Collective,Accessory0,Accessory1,Accessory2"/>
+	<field name="ChannelNeutral" units="us" type="int16" defaultvalue="1500"
+	       elementnames="Throttle,Roll,Pitch,Yaw,FlightMode,Collective,Accessory0,Accessory1,Accessory2"/>
+	<field name="ChannelMax" units="us" type="int16" defaultvalue="2000"
+	       elementnames="Throttle,Roll,Pitch,Yaw,FlightMode,Collective,Accessory0,Accessory1,Accessory2"/>
+	<field name="ResponseTime" units="ms" type="uint16" defaultvalue="0"
+	       elementnames="Roll,Pitch,Yaw,Collective,Accessory0,Accessory1,Accessory2"/>
+
+        <field name="Deadband" units="%" type="float" elements="1" defaultvalue="0.02"/>
+	<!-- Note the following deadband is used in AssistedControl.  Use of deadband with AssistedControl is not optional and will have a hardcoded minimum. -->
+        <field name="DeadbandAssistedControl" units="%" type="float" elements="1" defaultvalue="0.08" description="Stick deadband used for AssistedControl"/>
+
+
+	<!-- Note these options values should be identical to those defined in FlightMode -->
+        <field name="FlightModeNumber" units="" type="uint8" elements="1" defaultvalue="3"/>
+
+        <field name="FailsafeFlightModeSwitchPosition" units="" type="int8" elements="1" defaultvalue="-1"/>
+        <field name="FailsafeChannel" units="%" type="float" elementnames="Throttle,Roll,Pitch,Yaw,Collective,Accessory0,Accessory1,Accessory2" defaultvalue="-1,0,0,0,0,0,0,0" />
+
+        <access gcs="readwrite" flight="readwrite"/>
+        <telemetrygcs acked="true" updatemode="onchange" period="0"/>
+        <telemetryflight acked="true" updatemode="onchange" period="0"/>
+        <logging updatemode="manual" period="0"/>
+    </object>
+</xml>
