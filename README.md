@@ -36,7 +36,7 @@ Open source coaxial drone
 Tdrone无人机是从2015年10月开始研发的，到2016年4月第一代Tdrone具备了初步飞行能力，就如视频中展示的那样（连接）。Tdrone使用了两个经过改装的1806无刷电
 机作为动力，两个舵机用来控制斜盘，偏航使用差速控制。飞控使用了CC3D飞控。其搭载了两轴稳定的云台和运动相机。续航时间在10分钟左右。
 
-![RME2](https://github.com/ShenZhenAccelerationTechCo/Tdrone/blob/master/pictures/RME2.jpg)  ![3D结构正面](https://github.com/ShenZhenAccelerationTechCo/Tdrone/blob/master/pictures/3D结构正面.png)
+Tdrone实物：![RME2](https://github.com/ShenZhenAccelerationTechCo/Tdrone/blob/master/pictures/RME2.jpg) 
 ![TU4](https://github.com/ShenZhenAccelerationTechCo/Tdrone/blob/master/pictures/TU4.png)
 
 ### 2.飞控部分：
@@ -48,7 +48,7 @@ Tdrone无人机是从2015年10月开始研发的，到2016年4月第一代Tdrone
    Tdrone整机采用3D打印技术制造，所有零件都进行了3D打印优化，可以直接打印，打印材料使用了普通的ABS塑料。中央核心部分使用了铝管。98%的零件都使用了螺丝固定，方便后期维修更换。
    
 ![3D结构侧面](https://github.com/ShenZhenAccelerationTechCo/Tdrone/blob/master/pictures/3D结构侧面.png)
-
+![3D结构正面](https://github.com/ShenZhenAccelerationTechCo/Tdrone/blob/master/pictures/3D结构正面.png)
 ### 4.DIY注意事项：
 我十分理解大家想尽快制造出属于自己的飞行器的急迫心情。但在一切开始之前，你需要弄清楚以下几点：
 * 1.所有的零件尺寸都是按照我的3D打印机公差精度优化的，可能它并不适合你所使用的3D打印机。你需要根据你自己的打印机适当的调整零件。你可以先打印出一些需要配合的零件来测试。
