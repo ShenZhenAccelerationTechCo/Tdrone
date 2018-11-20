@@ -1,7 +1,7 @@
 # Tdrone
 Open source coaxial drone
 -------------------------
-![SHOUYE](https://github.com/ivenHu/Tdrone/blob/master/pictures/SHOUYE.png)
+![SHOUYE](https://github.com/ShenZhenAccelerationTechCo/Tdrone/blob/master/pictures/SHOUYE.png)
 ## Why Coaxial Tdrone?
 共轴双桨气动布局的飞行器其飞行原理类似于我们常见的直升机。与直升机不同的是，共轴双桨气动布局取消了直升机上常见的尾桨，使用了两个直径相同共轴布置的螺旋
 桨。与直升机相同的是，都使用了倾斜盘作为变距机构，来控制飞行器的俯仰和横滚自由度。下面的视频介绍了倾斜盘的工作原理：
@@ -23,7 +23,7 @@ Open source coaxial drone
 
 任何飞行器都是面向于目标用途和使用环境设计的，各种气动布局之间没有绝对的好坏之分。不仅在地球上如此，在其他星球上我们的理论依然适用～
 
-![RME1](https://github.com/ivenHu/Tdrone/blob/master/pictures/RME1.jpg)
+![RME1](https://github.com/ShenZhenAccelerationTechCo/Tdrone/blob/master/pictures/RME1.jpg)
 
 * [NASA共轴飞行器](https://www.nasa.gov/press-release/mars-helicopter-to-fly-on-nasa-s-next-red-planet-rover-mission)
 
@@ -36,8 +36,8 @@ Open source coaxial drone
 Tdrone无人机是从2015年10月开始研发的，到2016年4月第一代Tdrone具备了初步飞行能力，就如视频中展示的那样（连接）。Tdrone使用了两个经过改装的1806无刷电
 机作为动力，两个舵机用来控制斜盘，偏航使用差速控制。飞控使用了CC3D飞控。其搭载了两轴稳定的云台和运动相机。续航时间在10分钟左右。
 
-![RME2](https://github.com/ivenHu/Tdrone/blob/master/pictures/RME2.jpg)  
-![TU4](https://github.com/ivenHu/Tdrone/blob/master/pictures/TU4.png)
+![RME2](https://github.com/ShenZhenAccelerationTechCo/Tdrone/blob/master/pictures/RME2.jpg)  ![3D结构正面](https://github.com/ShenZhenAccelerationTechCo/Tdrone/blob/master/pictures/3D结构正面.png)
+![TU4](https://github.com/ShenZhenAccelerationTechCo/Tdrone/blob/master/pictures/TU4.png)
 
 ### 2.飞控部分：
    Tdrone使用了CC3D飞控。CC3D飞控原生即支持该种类型的飞行器，但需要一些特殊的设置。这是我使用的配置文件（连接）。 你可以直接使用该配置文件，但遥控器
@@ -46,6 +46,8 @@ Tdrone无人机是从2015年10月开始研发的，到2016年4月第一代Tdrone
 
 ### 3.制造方式及材质：
    Tdrone整机采用3D打印技术制造，所有零件都进行了3D打印优化，可以直接打印，打印材料使用了普通的ABS塑料。中央核心部分使用了铝管。98%的零件都使用了螺丝固定，方便后期维修更换。
+   
+![3D结构侧面](https://github.com/ShenZhenAccelerationTechCo/Tdrone/blob/master/pictures/3D结构侧面.png)
 
 ### 4.DIY注意事项：
 我十分理解大家想尽快制造出属于自己的飞行器的急迫心情。但在一切开始之前，你需要弄清楚以下几点：
