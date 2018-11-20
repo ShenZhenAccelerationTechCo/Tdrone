@@ -5,7 +5,7 @@ Open source coaxial drone
 ## Why Coaxial Tdrone?
 共轴双桨气动布局的飞行器其飞行原理类似于我们常见的直升机。与直升机不同的是，共轴双桨气动布局取消了直升机上常见的尾桨，使用了两个直径相同共轴布置的螺旋
 桨。与直升机相同的是，都使用了倾斜盘作为变距机构，来控制飞行器的俯仰和横滚自由度。下面的视频介绍了倾斜盘的工作原理：
-* [直升机斜盘原理视频]（https://www.youtube.com/watch?v=-kWhNi-MZAM）
+* [直升机斜盘原理视频](https://www.youtube.com/watch?v=-kWhNi-MZAM)
 
 对于小型共轴双桨气动布局的飞行器，通常采用单层变距的结构，就是说上下两层旋翼只有一个旋翼可以变距，而另一个旋翼则为定距。这样布局的好处是最大限度简化机
 械结构，利于飞行器的制造和后期维护。 当然如果追求更好的性能也可以设计更为复杂的双层变距结构，来使飞行器获得更强的飞行性能。
@@ -25,7 +25,7 @@ Open source coaxial drone
 
 ![RME1](https://github.com/ivenHu/Tdrone/blob/master/pictures/RME1.jpg)
 
-* [飞行器视频]（https://www.nasa.gov/press-release/mars-helicopter-to-fly-on-nasa-s-next-red-planet-rover-mission）
+* [NASA共轴飞行器](https://www.nasa.gov/press-release/mars-helicopter-to-fly-on-nasa-s-next-red-planet-rover-mission)
 
 在莱特兄弟使用固定翼飞行器完成人类第一次载人飞行的100多年后，我们有望见证人类首次在除地球以外的星球上使用无人飞行器，而这个无人飞行器正是共轴双桨无人
 机！
@@ -54,10 +54,10 @@ Tdrone无人机是从2015年10月开始研发的，到2016年4月第一代Tdrone
 * 3.该飞行器的制造需要一定的动手能力，虽然打印机完成了大部分的工作，但仍需要你手工处理一些金属零件布线及调整电机等。
 
 ### 更多了解
-通过YouTube，bilibili来观看Tdrone的实际飞行视频.
+点击YouTube，bilibili视频链接来观看Tdrone的实际飞行视频.
 
-* [优酷飞行视频](https://www.youtube.com/watch?v=wCfMVMhZFWQ&t=2s)
-* [哔哩哔哩飞行视频](https://www.bilibili.com/video/av36347739/?redirectFrom=h5)
+* [YouTube飞行视频](https://www.youtube.com/watch?v=wCfMVMhZFWQ&t=2s)
+* [bilibili飞行视频](https://www.bilibili.com/video/av36347739/?redirectFrom=h5)
 
 
 
