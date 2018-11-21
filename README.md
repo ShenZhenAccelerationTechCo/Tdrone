@@ -65,6 +65,11 @@ Tdrone实物：![RME2](https://github.com/ShenZhenAccelerationTechCo/Tdrone/blob
 
 ### 联系我们
     邮箱：linkalladmin@163.com
+    
+有什么问题建议欢迎到以下论坛,在我们的帖子下进行讨论：
+* [国内讨论区](http://bbs.5imx.com/forum.php?mod=viewthread&tid=1445702&extra=page%3D1)
+
+
 
 
 
