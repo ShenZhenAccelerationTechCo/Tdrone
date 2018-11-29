@@ -107,9 +107,16 @@ I fully understand your urgency to build your own aircraft as soon as possible. 
 有什么问题建议欢迎到以下论坛,在我们的帖子下进行讨论：
 * [国内讨论区](http://bbs.5imx.com/forum.php?mod=viewthread&tid=1445702&extra=page%3D1)
 
+### 捐赠 Donate
 
+如果您觉得该项目对您有帮助，也为了更好的更好的服务社区和不断更新新的设计，请捐赠我们！
+If you think this project is helpful to you, but also for better service to the community and constantly update the new design, please donate to us!
 
+* [通过Paypal](PayPal.Me/accelerationtech)
 
+*  ![支付宝捐赠](https://github.com/ShenZhenAccelerationTechCo/Tdrone/blob/master/pictures/支付宝捐赠.jpg)
+
+*  ![微信捐赠](https://github.com/ShenZhenAccelerationTechCo/Tdrone/blob/master/pictures/微信捐赠.jpg)
 
 
 
