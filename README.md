@@ -115,9 +115,9 @@ If you think this project is helpful to you, but also for better service to the 
 
 * [通过Paypal](PayPal.Me/accelerationtech)
 
-*  ![支付宝捐赠](https://github.com/ShenZhenAccelerationTechCo/Tdrone/blob/master/pictures/支付宝捐赠.jpg)
+* 通过 Alipay    ![支付宝捐赠](https://github.com/ShenZhenAccelerationTechCo/Tdrone/blob/master/pictures/支付宝捐赠.jpg)
 
-*  ![微信捐赠](https://github.com/ShenZhenAccelerationTechCo/Tdrone/blob/master/pictures/微信捐赠.png)
+* 通过 WeChatpay ![微信捐赠](https://github.com/ShenZhenAccelerationTechCo/Tdrone/blob/master/pictures/微信捐赠.png)
 
 
 
