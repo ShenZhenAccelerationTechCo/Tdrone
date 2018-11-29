@@ -116,7 +116,7 @@ If you think this project is helpful to you, but also for better service to the 
 
 *  ![支付宝捐赠](https://github.com/ShenZhenAccelerationTechCo/Tdrone/blob/master/pictures/支付宝捐赠.jpg)
 
-*  ![微信捐赠](https://github.com/ShenZhenAccelerationTechCo/Tdrone/blob/master/pictures/微信捐赠.jpg)
+*  ![微信捐赠](https://github.com/ShenZhenAccelerationTechCo/Tdrone/blob/master/pictures/微信捐赠.png)
 
 
 
